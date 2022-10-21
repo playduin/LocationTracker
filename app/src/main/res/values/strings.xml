@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="gps_tracker">GPS Tracker</string>
+    <string name="map">Map</string>
+    <string name="title_activity_tracker_auth">TrackerAuth</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="logout_alert_message">No Internet connection. What to do with locations?</string>
+    <string name="logout_alert_destroy_locations">Destroy locations</string>
+    <string name="logout_alert_wait_connection">Wait connection</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_username_wrong">Error. Username is wrong</string>
+    <string name="login_password_wrong">Error. Password is wrong</string>
+    <string name="register_failed">Error. Mail already exist</string>
+    <string name="network_error">Network error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="tracker_is_not_started">Tracker is not started.</string>
+    <string name="tracker_is_started">Tracker is started.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="locations_count">Sent %d locations</string>
+    <string name="gps_state">GPS is %s</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="notification_text">Tracker is started. GPS is %s</string>
+    <string name="date_select">Select date</string>
+    <string name="sync">Sync</string>
+</resources>
